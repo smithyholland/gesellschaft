@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Lorem Ipsum">
+      <FileRef
+         location = "group:LICENSE.md">
+      </FileRef>
+      <FileRef
+         location = "group:LoremIpsum.podspec">
+      </FileRef>
+      <FileRef
+         location = "group:Sources/LoremIpsum/include/LoremIpsum.h">
+      </FileRef>
+      <FileRef
+         location = "group:Sources/LoremIpsum/LoremIpsum.m">
+      </FileRef>
+      <FileRef
+         location = "group:Package.swift">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Examples/Lorem Ipsum macOS Example/Lorem Ipsum macOS Example.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Examples/Lorem Ipsum iOS Example/Lorem Ipsum iOS Example.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Examples/Lorem Ipsum tvOS Example/Lorem Ipsum tvOS Example.xcodeproj">
+   </FileRef>
+</Workspace>
